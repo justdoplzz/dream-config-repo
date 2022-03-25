@@ -1,16 +1,4 @@
-# # 외부 : eureka, db, mabatis
-# # 내부 : security, keycloak
-# server:
-#   port: 8002
-
-
-# spring:
-#   application:
-#     name: manage-service
-
-# # -----------------------외부--------------------------------
-
-# #외부화 성공 
+# # 유레카 클라이언트 설정    
 # #eureka:
 # #  instance:
 # #    instance-id: manage-microservice-instance # eureka에 등록되는 id 값
